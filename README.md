@@ -1,2 +1,13 @@
-# hw-example-f23-s1
-This repo is for practicing the first homework assignment
+# **Team Name**
+Tag Line
+
+###***Team Member Name 1***
+**Hobbies:**
+**Likes:**
+**Fav Movies:**
+1. 
+2.
+
+[Website:](https://www.amazon/.ca)
+![Fender Telecaster](images/tele.jpg)
+
